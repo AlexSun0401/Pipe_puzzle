@@ -1,0 +1,5 @@
+# Quartus build output and local state
+/quartus/db/
+/quartus/incremental_db/
+/quartus/output_files/
+/quartus/*.qws
