@@ -39,4 +39,3 @@ The keyboard decoder supplies the selected tile and rotation command. The pipe m
 
 - The ECE241 teaching team provided the modules in [rtl/video/vga_adapter/](rtl/video/vga_adapter/).
 - The keyboard interface was adapted from Professor Stephen Brown's `ps2_demo.v`.
-- The original title-screen artwork was created using ChatGPT.
